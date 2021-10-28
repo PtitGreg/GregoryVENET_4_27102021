@@ -12,9 +12,7 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
  <img src="https://user.oc-static.com/upload/2019/04/15/15553465193309_icon-above-font.png" width="100px"/>
 </p>
 
-<p align="center">
- <p>La chouette agence</p>
-</p>
+<p align="center">La chouette agence</p>
 
 Sophie vous invite dans une réunion pour préciser le périmètre de la mission. Voici le compte-rendu de cette réunion.
 
