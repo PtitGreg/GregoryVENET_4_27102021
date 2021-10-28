@@ -49,7 +49,7 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 
 Avec toutes ces informations en tête, vous vous mettez au travail immédiatement !
 
-# Compétences évaluées
+## Compétences évaluées
 * Réaliser une recherche des bonnes pratiques en développement web
 * Optimiser la taille et la vitesse d’un site web
 * Assurer l'accessibilité d'un site web
