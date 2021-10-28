@@ -10,7 +10,7 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
 
 <p align="center">
  <img src="https://user.oc-static.com/upload/2019/04/15/15553465193309_icon-above-font.png" width="100px"/>
- <p>La chouette agence</p>
+ La chouette agence
 </p>
 
 
