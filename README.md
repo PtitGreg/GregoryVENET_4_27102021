@@ -11,6 +11,7 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
  
 
 ![La chouette agence](https://user.oc-static.com/upload/2019/04/15/15553465193309_icon-above-font.png)
+
 La chouette agence 
 Sophie vous invite dans une réunion pour préciser le périmètre de la mission. Voici le compte-rendu de cette réunion.
 
