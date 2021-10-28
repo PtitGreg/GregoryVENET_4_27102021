@@ -1,4 +1,4 @@
-# Projet 4 de la formation Dev web Openclassrooms
+# Projet 4 formation Dev web Openclassrooms
 
 [Page en cours de construction disponible sur GitHub Pages](https://ptitgreg.github.io/GregoryVENET_4_27102021/)
 
