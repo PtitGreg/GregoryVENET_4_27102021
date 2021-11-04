@@ -968,6 +968,7 @@ h4 {
     .nav-invert .navbar-header {
         float: none;
         width: 100%;
+        
     }
     .nav-invert .navbar-toggle {
         float: left;
