@@ -7,3 +7,6 @@ BrowserMatch ^Mozilla/4\.0[678] no-gzip
 BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
 BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
 
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} SiteCheckerBotCrawler [OR]
+RewriteRule ^.*$ “https://ptitgreg.github.io/GregoryVENET_4_27102021/” [R=301,L]
