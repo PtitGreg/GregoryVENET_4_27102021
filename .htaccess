@@ -7,7 +7,10 @@ BrowserMatch ^Mozilla/4\.0[678] no-gzip
 BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
 BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
 
+<<<<<<< HEAD
 # cache for apache
+=======
+>>>>>>> 9a30a203d2e078575504f3986411c55cebbaa93a
 <IfModule mod_expires.c>
   ExpiresActive On
 
