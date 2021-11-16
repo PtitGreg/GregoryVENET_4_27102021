@@ -79,19 +79,8 @@ a:hover {
     background: top no-repeat;
 }
 
-.bloc-bg-texture::before {
-    content: "";
-    background-size: 2px 2px;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
-
-.texture-paper::before {
+.texture-paper {
     background: rgba(0, 0, 0, .5);
-    background-size: 280px;
 }
 
 .b-parallax {
@@ -738,7 +727,6 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-
 }
 
 .portfolio-row {
