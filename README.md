@@ -1,6 +1,6 @@
 # Projet 4 formation Dev web Openclassrooms
 
-[Page en cours de construction disponible sur GitHub Pages](https://ptitgreg.github.io/GregoryVENET_4_27102021/)
+[Page disponible sur GitHub Pages](https://ptitgreg.github.io/GregoryVENET_4_27102021/)
 
 # Optimisez un site web existant
 
